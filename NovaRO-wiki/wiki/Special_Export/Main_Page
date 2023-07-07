@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>NovaRO: Wiki</sitename>
+    <dbname>novaragn_newwiki2</dbname>
+    <base>https://www.novaragnarok.com/wiki/Main_Page</base>
+    <generator>MediaWiki 1.38.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">NovaRO Wiki</namespace>
+      <namespace key="5" case="first-letter">NovaRO Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>36130</id>
+      <parentid>36129</parentid>
+      <timestamp>2021-09-30T16:14:11Z</timestamp>
+      <contributor>
+        <username>Mayo</username>
+        <id>37</id>
+      </contributor>
+      <origin>36130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6503" sha1="top8jweqa38wr98aqmjta0dlqxbzsqz" xml:space="preserve">{{DISPLAYTITLE:&lt;span style="position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px);"&gt;{{FULLPAGENAME}}&lt;/span&gt;}}
+&lt;metadesc&gt;Designed to make your playing experience smoother and more pleasant.&lt;/metadesc&gt;
+
+{| style="padding: 5px; text-align: center; width: 100%; background: white; border:1px solid #AFCFE2;"
+|&lt;span class="plainlinks"&gt;
+[https://www.novaragnarok.com/ Website] •
+[https://www.novaragnarok.com/?module=main&amp;action=info Server Information] •
+[https://www.novaragnarok.com/?module=account&amp;action=create Register] •
+[https://www.novaragnarok.com/?module=main&amp;action=download Download] •
+[https://www.novaragnarok.com/?module=vending Market] •
+[https://www.novaragnarok.com/forum/ Forums] •
+[https://www.novaragnarok.com/?module=main&amp;action=staff Staff] •
+[https://www.novaragnarok.com/forum/news/ Patch Notes]&lt;/span&gt;
+|}
+
+&lt;br&gt;
+
+{| style="text-align: center; width: 100%; background: white;"
+| style=" width: 60%" |
+:&lt;span style="font-weight:bold;font-size:large"&gt;Welcome to &lt;span style="font-size:x-large"&gt;[[Server Information|NovaRO Wiki,]]&lt;/span&gt;&lt;/span&gt;
+:the comprehensive reference written and maintained by the players.
+:There are currently [[Special:Statistics|'''{{NUMBEROFARTICLES}}''' articles]] and [[Special:ListFiles|'''{{NUMBEROFFILES}}''' images]], maintained by [[Special:Statistics|'''{{NUMBEROFACTIVEUSERS}}''' active contributors]].
+:Please feel free to contribute by creating new articles or expanding existing ones.
+| style="border-left:1px solid grey; text-align:left; padding: 16px;" |
+:[[Glast Heim: Challenge Mode]] has been implemented.
+:The [[Episode 17.2 - Sage's Legacy]] is now available
+:Test your skills on [[Loki's Path|Loki's Paths]]
+|-
+|}
+
+{{Main Page Nav
+&lt;!-- INDEX ITEMS --&gt;
+| index-1-link = Leveling Guide
+| index-1-text = Leveling
+| index-1-image = Mainwoe.png
+
+| index-2-link = Frequently Asked Questions
+| index-2-text = FAQ
+| index-2-image = Mainfaq.png
+
+| index-3-link = Class Guides
+| index-3-text = Class Guides
+| index-3-image = Mainclass.png
+
+| index-4-link = Nova Shop
+| index-4-text = Nova Shop
+| index-4-image = Maincash.png
+
+| index-5-link = Troubleshooting
+| index-5-text = Troubleshooting
+| index-5-image = Maintrouble.png
+
+| index-6-link = Rules
+| index-6-text = Rules
+| index-6-image = Mainrules.png
+
+| index-7-link = Instances
+| index-7-text = Instances
+| index-7-image = Maininstance.png
+
+| index-8-link = Custom Headgear Quests
+| index-8-text = Headgears
+| index-8-image = 20455.png
+
+| index-9-link = Monster Hunter Portal
+| index-9-text = Monster Hunter
+| index-9-image = Carver.png
+}}
+
+&lt;hr&gt;
+
+{| style="padding: 5px; text-align: center; width: 100%; background: white;"
+|
+:Are you new to the game? Check out the '''[[Introduction to Ragnarok Online]]''' to get an idea of how the game works!
+:Coming from a Pre-Renewal Server? Be sure to check out the '''[[Introduction to Renewal]]''' guide to get you started!
+:Just new to NovaRO? Visit the '''[[Introduction to NovaRO]]''' page and see what NovaRO has to offer!
+|}
+
+&lt;hr&gt;
+
+{| |style="margin:0 auto; border:none; width: 96%"
+|-
+| style="width:5%;;" |[[File:Bt_status.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;NovaRO&lt;/big&gt;&lt;/span&gt;
+
+[[Getting Started]]{{*}}[[Player Commands|Commands]]{{*}}[[Daily Rewards]]{{*}}[[Main Office]]{{*}}[[Gold Coins]]{{*}}[[Weekly Quests]]{{*}}[[Nova Shop]]{{*}}[[Automated Events]]{{*}}[[NovaExt]]{{*}}[[Event Tickets]]{{*}}[[Headgear Recolor Guide|Headgear Recolors]]{{*}}[[Summer Festival]]{{*}}[[Trickster King's Invasion|Halloween Event]]{{*}}[[Helping Santa]]{{*}}[[Valentine's Day]]
+| style="width:5%;" |[[File:Bt_eq.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;[[Equipment Guides|Equipment]]&lt;/big&gt;&lt;/span&gt;
+[[Vicious Weapons|Vicious Mind]]{{*}}[[Crimson Weapons]]{{*}}[[Stat Gloves]]{{*}}[[Faceworm Skins]]{{*}}[[Verus Equipment Exchange|Verus Equipment]]{{*}}[[Temporal Boots]]{{*}}[[Meteor Strike Quest|Meteor Strike]]{{*}}[[Headgear Awakening]]{{*}}[[Tomb of the Fallen#Rewards and Equipment Crafting|Bio 5 Old Headgears]]{{*}}[[Magma Dungeon F3|Magma F3]]{{*}}[[Abyss Glast Heim]]{{*}}[[Illusion Dungeons]]{{*}}[[Angel Poring Boots and Heroic Capes]]{{*}}[[Monster Hunter Rewards]]
+|-
+| style="width:5%;" |[[File:Bt_pvp.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;[[Player vs Player|Player versus Player]]&lt;/big&gt;&lt;/span&gt;
+
+[[War of Emperium]]{{*}}[[Draft War of Emperium]]{{*}}[[Battlegrounds]]{{*}}[[King of Emperium]]{{*}}[[Siege Tokens]]{{*}}[[War of Emperium#Reward_Track_System | WoE Reward Tracks]]{{*}}[[Siege Customizations]]
+| style="width:5%;" |[[File:Bt_enchants.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;[[Enchantment]]&lt;/big&gt;&lt;/span&gt;
+[[Illusion Equipments and Enchants (17.1)|17.1 Equipment]]{{*}}[[Illusion_Dungeons#Illusion_Enchants|Illusion Enchants]]{{*}}[[Bio Lab Enchants|Bio Lab]]{{*}}[[Hidden Enchant]]{{*}}[[Malangdo Enchant|Malangdo]]{{*}}[[Sarah's Earring Enchants|Sarah's Earring]]{{*}}[[Verus Enchants|Verus]]{{*}}[[Horror Toy Factory Enchants|Horror Toy Factory]]{{*}}[[Ghost_Palace#Thanatos_Weapon_Enchanting|Thanatos Enchants]]{{*}}[[Honor Token#Enchantment|Banquet of Heroes Enchants]]{{*}}[[Schwartz's Honor Token#Enchantment|Terra Gloria Enchants]]{{*}}[[Tomb of the Fallen#Enchants|Nightmare Bio 5 Hats Enchants]]
+|-
+| style="width:5%;" |[[File:Bt_mechanics.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;Mechanics&lt;/big&gt;&lt;/span&gt;
+
+[[Refinement System|Refinement]]{{*}}[[Homunculus]]{{*}}[[Pet System]]{{*}}[[Guild Dungeon Investment System]]{{*}}[[Achievements|Achievements (Titles)]]{{*}}[[Alternative Outfits]]{{*}}[[Palette Colors]]{{*}}[[Green Aura|Green Aura MVPs]]{{*}}[[Hardcore]]
+| style="width:5%;" |[[File:Bt_quest.png|link=]]
+| style="width:47%; padding-right:5%" |&lt;span style="font-variant:small-caps;"&gt;&lt;big&gt;Quests&lt;/big&gt;&lt;/span&gt;
+
+[[Illusion]]{{*}}[[Rock Ridge]]{{*}}[[Banquet for Heroes]]{{*}}[[Fire Basin Quests|Fire Basin]]{{*}}[[Einbroch Murder Quest|Einbroch Murder]]{{*}}[[Cursed Spirit Quest|Cursed Spirit]]{{*}}[[Juperos Quest|Juperos]]{{*}}[[Phantasmagorica|Phantasmagorica]]{{*}}[[Verus Dailies]]{{*}}[[Mora Dailies]]{{*}}[[Terra Gloria]]
+|}
+
+&lt;hr&gt;
+
+&lt;div style="margin: auto; text-align: right; margin-left:2%;" border:none;&gt;
+[[File:Discord2.png|link=http://tinyurl.com/discordnova|25px]]
+&lt;/div&gt;
+
+[[Category:Core]]</text>
+      <sha1>top8jweqa38wr98aqmjta0dlqxbzsqz</sha1>
+    </revision>
+  </page>
+</mediawiki>
